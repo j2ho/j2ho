@@ -1,6 +1,6 @@
-## Hi there 👋
+## Jiho Sim, PhD Candidate @ SNU 
 
-🌱 Worked/Working on exciting projects under: https://github.com/seoklab
+🌱 Worked/Working on exciting projects under: https://github.com/seoklab + a 
 
 🌱 Check out some of my public work: 
 - Human Proteome Binding Site DB: https://galaxy.seoklab.org/hproteome-bsite/
