@@ -15,7 +15,7 @@
   - LinkedIn:www.linkedin.com/in/jiho-sim-180036363
 
 
-⚡ Started actively committing projects to GitHub mainly this year (2025), so projects like GalaxySite2 are one-time backups. I've been working to polish those projects while developing new interesting work!
+⚡ Projects like GalaxySite2 are one-time backups (partial).  
 
 <!--
 **j2ho/j2ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
